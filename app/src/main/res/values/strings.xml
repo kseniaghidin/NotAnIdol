@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Not An Idol</string>
+
+    <string-array name="item_title">
+        <item>"Să-L văd pe Dumnezeu"</item>
+        <item>"Valuri de Lumină"</item>
+    </string-array>
+
+    <string-array name="item_detail">
+        <item>"13 songs"</item>
+        <item>"9 songs"</item>
+    </string-array>
+
+    <string-array name="item_link">
+        <item>https://notanidol.bandcamp.com/album/s-l-v-d-pe-dumnezeu</item>
+        <item>https://notanidol.bandcamp.com/album/valuri-de-lumin</item>
+    </string-array>
+
+    <string-array name="item_month">
+        <item>"May"</item>
+        <item>"May"</item>
+        <item>"June"</item>
+        <item>"July"</item>
+    </string-array>
+
+    <string-array name="item_date">
+        <item>"15"</item>
+        <item>"25"</item>
+        <item>"7"</item>
+        <item>"18"</item>
+    </string-array>
+
+    <string-array name="item_name">
+        <item>"NOT AN IDOL, Doxa Deo Band"</item>
+        <item>"Concert NOT AN IDOL la Chișinău"</item>
+        <item>"NOT AN IDOL la Doxa Deo"</item>
+        <item>"Concert la Suceava"</item>
+    </string-array>
+
+    <string-array name="item_time">
+        <item>"Fri 7 PM"</item>
+        <item>"Sat 7 PM"</item>
+        <item>"Sun 6 PM"</item>
+        <item>"Tue 6 PM"</item>
+    </string-array>
+
+    <string-array name="item_event_link">
+        <item>https://www.facebook.com/events/322465501503035/</item>
+        <item>https://www.facebook.com/events/1374400509285843/</item>
+        <item>https://www.facebook.com/events/1291589974201391/</item>
+        <item>https://www.facebook.com/events/806452989421241/</item>
+    </string-array>
+
+    <string name="description">\"Eu sunt Domnul, acesta este Numele Meu; şi slava Mea n-o voi da altuia, nici cinstea mea idolilor.\" - Isaia 42.8</string>
+    <string name="not_an_idol">Not An Idol</string>
+    <string name="button_videos">Videos</string>
+    <string name="button_albums">Albums</string>
+    <string name="button_events">Events</string>
+    <string name="button_contacts">Contacts</string>
+    <string name="label_videos">Videos</string>
+    <string name="label_albums">Albums</string>
+    <string name="label_events">Events</string>
+    <string name="label_contacts">Contacts</string>
+    <string name="marc_oselschi">Marc Oselschi</string>
+    <string name="email_contacts">Email: notanidol@gmail.com</string>
+    <string name="tel_contacts">Tel: +373 690 22849 (MD)</string>
+    <string name="tel_ro_contacts">Tel: +40 743 801 756 (RO)</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="youtube">YouTube</string>
+    <string name="instagram">Instagram</string>
+</resources>
